@@ -1,0 +1,6 @@
+{
+  "appId": "com.gertwins.app",
+  "appName": "GerTwinsApp",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
